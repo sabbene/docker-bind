@@ -21,7 +21,7 @@ docker run -d --net="host" --restart=always  --privileged --name=bind -v /myloca
 
 **Additional notes**
 
-* edit the zone files, and named.conf file on local disk, then restart the container server.
+* edit the zone files, and named.conf file on local disk, then restart the container.
 
 **Change notes**
 
